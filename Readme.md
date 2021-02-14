@@ -36,7 +36,7 @@
 
 	```bash
 	mvn package
-	java -jar target/polls-0.0.1-SNAPSHOT.jar
+	java -jar target/taskManagement-0.0.1-SNAPSHOT.jar
 	```
 5. **Default Roles and Task Status**
 	
