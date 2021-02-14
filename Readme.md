@@ -6,7 +6,7 @@
 1. **Clone the application**
 
 	```bash
-	https://github.com/Pushpen-bikash/taskManagementApi.git
+	git clone https://github.com/Pushpen-bikash/taskManagementApi.git
 	cd taskManagementApi
 	```
 
